@@ -1,0 +1,13 @@
+Supervised learning - Because both are labelled (input nad output) also the output depends on the input
+                    Divided into two:
+                      Classification(discrete)
+                      Regression(Continuous)
+Unspervised Learning - Only input parameters are available
+                     Divided into two:
+                      Clustering(Grouping and finding on the basis of multiple inputs)
+                      Association(Supermarket example)
+ Semi Supervised Learning - Mixed(Image data sets processing)
+ Reinforcement - Bots (Perform  & gets reward)
+                 Increases performance 
+                 Competes with itself and human
+                
