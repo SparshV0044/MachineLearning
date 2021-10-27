@@ -4,3 +4,6 @@ arr = np.array(a)
 
 functions -> type,shape,size,ndim
 conversion-> astype(datatype)
+
+
+
