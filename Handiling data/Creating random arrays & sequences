@@ -1,0 +1,3 @@
+np.arange(start,stop,step)
+np.linspace(start,stop,no of elements)-> Calculates the element with the equal spaces in the range mentioned
+np.zeros([D,D]) -> creates a multi dimension array with all elements are zeros
