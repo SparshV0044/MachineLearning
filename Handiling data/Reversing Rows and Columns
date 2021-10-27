@@ -1,0 +1,3 @@
+Rows-> arr[::-1]
+Rows & Columns _> arr[::-1,::-1]
+Only Column ->arr[:,::-1]
