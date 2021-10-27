@@ -1,0 +1,3 @@
+arr.shape
+arr.rehshape(4,2) -> Changes from (2,4)
+arr.flatten() -> Makes it 1D
