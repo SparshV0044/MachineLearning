@@ -1,0 +1,1 @@
+u_val , count = np.unique(arr,return_counts = True)
