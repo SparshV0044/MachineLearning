@@ -1,0 +1,10 @@
+df = pd.read_csv("Loaction of csv file")
+
+df.head()   #to print data
+df.info()   #to get info of data
+df.description()  #to get data description
+
+
+#Data selection
+df["name"][:digit]
+df.iloc[:10,[1,3]]
