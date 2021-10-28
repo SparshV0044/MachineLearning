@@ -1,0 +1,12 @@
+np.nam -> Works as null value
+
+df1 = pd.DataFrame(data)
+
+isnull() -> df1.isnull() (True , then it shows mull)
+df.isnull().sum() -> total null values
+fillna(digit or data) -> fills null values with the digit or data
+
+
+#dropping null values
+a = df1.dropna(axis.value)
+ axis.value can be 1(columns) or 0(rows)
