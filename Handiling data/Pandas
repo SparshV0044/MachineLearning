@@ -1,0 +1,18 @@
+import pandas as pd
+import numpy as np
+
+data = {
+" " : [   ]
+" " : [   ]
+" " : [   ]
+}
+
+
+df1 = pd.Dataframe(data)
+
+#Setting index
+df2 = pd.DataFrame(data, index = [a,b,c,d])
+
+#extracting info
+df2.loc['xy']
+df2.iloc[:,-1]
