@@ -1,0 +1,7 @@
+df1['marks'].sum()
+df1['marks'].mean()
+df1['marks'].cumsum()
+df1['marks'].count()
+df1['marks'].min() or max() or var()
+.std() -> Standard Deviation
+df1.corr() -> correlation of columns with each other
