@@ -1,0 +1,6 @@
+x = []       x2 = []
+y = []       y2 = []
+
+plt.bar() => vetical
+plt.hbar() => Horizontal
+
