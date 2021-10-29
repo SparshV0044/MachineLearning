@@ -1,0 +1,7 @@
+plt.plot(x,y,color = "g", linewidth = 6)
+plt.plot(x1,y1,color = "r", linewidth = 3)
+plt.show()
+
+
+plt.annotate(xy =[2,3], text = "first line")
+plt.annotate(xy =[4,4], text = "second line")
