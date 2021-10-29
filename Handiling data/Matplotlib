@@ -1,0 +1,20 @@
+Line graph and scatter plot
+
+import numpy as np
+import pandas
+import matplotlib as plt
+
+initialize x and y
+x=[]
+y=[]
+
+plt.plot(x,y)
+plt.title(""),plt.xlabel(), plt.show()
+plt.plot(x,y,"^")->give traingles on coordinates
+
+
+####   For Sin Graph  ####
+x = np.arange(0,3*np.pi,0.1)
+y = np.sin(x)
+plt.plot(x,y)
+plt.scatter(x,y)
