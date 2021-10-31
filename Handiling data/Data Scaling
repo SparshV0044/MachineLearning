@@ -1,0 +1,7 @@
+Basically to reduce biasing and bring whola data between  0 and 1
+
+#Data Scaling
+
+Scaler = MinMaxScaler()
+scaler.fit(data)
+sacler_data = pd.DataFrame(data = scaler.transform(data), columns = data.columns , index = data.index)
