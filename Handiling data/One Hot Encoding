@@ -1,0 +1,4 @@
+one_hot_encoded_data = pd.get_dummies(data, columns=["Remarks", "Gender"]
+one_hot_encoded_data.head()
+
+###Binary Transformation in a table###
