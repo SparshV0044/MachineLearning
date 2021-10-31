@@ -1,0 +1,5 @@
+from sklearn.processing import LabelEncoder
+
+label_encoder_x = LabelEncoder()
+label_encoded_data = label_encoder_x.fit_transform(data["Remarks"])
+label_encoded_data["Reamrks"].uniques()
