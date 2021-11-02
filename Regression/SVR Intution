@@ -1,0 +1,7 @@
+steps
+
+get training dataset
+plot data to high dimensional place
+evaluate the kernel
+find the best hyperplane
+target is to plot non-linearly separable data to a high dimension space and then make it to a separable space.
