@@ -1,0 +1,13 @@
+⍺ -> alpha -> learning rate in gradient descent algo
+
+gradient descent
+m' = m-⍺(dcost/dm)-> backward propagation
+final eqn=> m' = m- ⍺/n (y^-y)x 
+
+c' = c - ⍺/n(y^-y)
+
+fp
+cost
+bp
+Update parameters m' c'
+repeat the process until we get optimal values for m & c & finally can feed our data to eqn mc+c
