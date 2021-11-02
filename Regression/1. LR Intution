@@ -1,0 +1,6 @@
+y^ = mx+c
+changing the m&c values and putting the x value gets us y^(y predicted)
+
+cost= summision i=0 to n for 1/2n (y^ - y)^2
+finding most optimal solution (minimum cost)
+Hy -> m,c (updating) -> cost(minimal)
