@@ -1,0 +1,4 @@
+from sklearn.linear_model import Logisticregression
+Classifier = LogisticRegression()
+classifier.fit(xtrain,ytrain)
+ypred = classifier.predict(xtest)
