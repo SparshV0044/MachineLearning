@@ -1,3 +1,11 @@
+A logistic regression model predicts a dependent data variable by analyzing the relationship between one or more existing independent variables.
+For example, a logistic regression could be used to predict whether a political candidate will win or lose an election or whether a high school student will be admitted
+to a particular college.
+
+
+
+
+
 from sklearn.linear_model import Logisticregression
 Classifier = LogisticRegression()
 classifier.fit(xtrain,ytrain)
